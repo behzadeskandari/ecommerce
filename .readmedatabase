@@ -1,0 +1,13 @@
+gitbash 
+
+
+cd  ~ 
+
+touch .bash_profile
+
+vim .bash_profile
+
+alias mongod="/c/program\ files/MongoDB/Server/4.2/bin/mongod.exe"
+alias mongod="/c/program\ Files/MongoDB/Server/4.2/bin/mongo.exe"
+
+Run as Admin mongod.exe and mongodb.exe
